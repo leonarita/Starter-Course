@@ -1,4 +1,4 @@
-# Curso Started
+# Curso Starter
 
 Curso introdutório ao full stack oferecido pela Rocketseat cujos focos são NodeJS, ReactJS e React-Native. A linguagem de programação utilizada foi o **Javascript**.
 
