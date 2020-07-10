@@ -14,7 +14,6 @@ A linguagem de programação utilizada foi o **Javascript**.
 Para o backend, foram utilizadas ferramentas como `express`, `cors`, `mongoose` e `mongoose-paginate`.
 
 <br>
-<br>
 
 As principais atividades realizadas foram:
   1. Conexão com o mongodb;
