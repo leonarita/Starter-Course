@@ -28,7 +28,7 @@ As principais atividades realizadas foram:
 
 Para o frontend, foram utilizadas ferramentas como `axios` e `react-router-dom`.
 <br>
-<br>
+
 Possui duas telas: 
   1. Tela inicial;
   2. Tela de detalhes. 
@@ -50,14 +50,13 @@ As principais atividades foram:
 Para o mobile, foram utilizadas ferramentas como axios e react-navigation. 
 
 <br>
-<br>
 
 Possui duas telas: 
   1. Tela inicial;
   2. Tela do github. 
   
 <br>
-<br>
+
 
 As principais atividades foram:
   1. Criação das telas;
