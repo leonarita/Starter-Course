@@ -34,7 +34,6 @@ Possui duas telas:
   2. Tela de detalhes. 
   
 <br>
-<br>
 
 As principais atividades foram:
   1. Criação das telas;
@@ -56,7 +55,6 @@ Possui duas telas:
   2. Tela do github. 
   
 <br>
-
 
 As principais atividades foram:
   1. Criação das telas;
