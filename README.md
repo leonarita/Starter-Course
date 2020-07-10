@@ -46,7 +46,7 @@ As principais atividades foram:
 
 ### 3. Mobile
 
-Para o mobile, foram utilizadas ferramentas como axios e react-navigation. 
+Para o mobile, foram utilizadas ferramentas como `axios` e `react-navigation`. 
 
 <br>
 
